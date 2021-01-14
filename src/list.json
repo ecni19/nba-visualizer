@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 666560,
+      "first_name": "Tacko",
+      "height_feet": null,
+      "height_inches": null,
+      "last_name": "Fall",
+      "position": "C",
+      "team": {
+        "id": 2,
+        "abbreviation": "BOS",
+        "city": "Boston",
+        "conference": "East",
+        "division": "Atlantic",
+        "full_name": "Boston Celtics",
+        "name": "Celtics"
+      },
+      "weight_pounds": null
+    }
+  ],
+  "meta": {
+    "total_pages": 1,
+    "current_page": 1,
+    "next_page": null,
+    "per_page": 25,
+    "total_count": 1
+  }
+}
